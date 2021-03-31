@@ -5,7 +5,7 @@ In this project, we will analyze bike sharing data from Capital Bikeshare in Was
 **Our Analysis is broken down to the following section:**
 - Preprocessing Temporal and Weather Features
 - Registered versus Casual Use Analysis
-- Analyzing Seasonal Impact on Rides
+- Analyzing Seasonal Impact on Rides 
 - Hypothesis Tests to validate our analysis
 - Analysis of Weather-Related Features
 - Basic Time Series Analysis
